@@ -1,11 +1,11 @@
 const CACHE_NAME = 'dj-player-cache-v2';
 const OFFLINE_URLS = [
-  '/',
-  '/index.html',
-  '/manifest.json',
-  '/app.js',
-  '/icon-192.png',
-  '/icon-512.png'
+  './',
+  './index.html',
+  './manifest.json',
+  './app.js',
+  './icon-192.png',
+  './icon-512.png'
 ];
 
 self.addEventListener('install', (event) => {

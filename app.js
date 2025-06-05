@@ -1,1 +1,1 @@
-// Mover el JS principal aquí si lo deseas
+// Aquí debes pegar el script JS del reproductor que tenías antes
